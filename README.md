@@ -78,31 +78,6 @@ academia-visionaria/
 Acesse o protótipo completo no Figma:  
 👉 [Clique aqui para visualizar](https://www.figma.com/design/ktyrvvN62JSr47Wyjw8I5a/vitor-s-team-library?node-id=0-1&t=N0ffhwcjbULYqy4v-1)
 
----
-
-## 📌 Como rodar o projeto
-
-```bash
-# Instale o Expo CLI, caso ainda não tenha:
-npm install -g expo-cli
-
-# Clone o repositório:
-git clone https://github.com/imvitorxz/academia-visionaria.git
-
-# Acesse o diretório do projeto:
-cd academia-visionaria
-
-# Instale as dependências:
-npm install
-
-# Rode o app:
-expo start
-```
-
-> Recomendado usar o app **Expo Go** no celular para visualizar em tempo real.
-
----
-
 ## 🤝 Contribuição
 
 Sinta-se à vontade para contribuir com melhorias, correções ou novas ideias.  
